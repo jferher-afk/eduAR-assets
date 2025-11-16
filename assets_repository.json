@@ -6,7 +6,7 @@
       "name": "T-Rex",
       "type": "Model",
       "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/T-REX.glb",
-      "thumbnailUrl": "URL_RAW_DE_LA_IMAGEN_O_VACIO",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/TREX.png",
       "category": "dinosaurs",
       "defaultScale": 1.0
     }
