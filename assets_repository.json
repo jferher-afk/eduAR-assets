@@ -10,5 +10,15 @@
       "category": "dinosaurs",
       "defaultScale": 1.0
     }
+    {
+      "id": "BOSQUE",
+      "name": "BOSQUE",
+      "type": "Image",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/BOSQUE.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/BOSQUE.png",
+      "category": "Fondos",
+      "defaultScale": 1.0
+    }
+
   ]
 }
