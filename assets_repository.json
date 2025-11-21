@@ -18,6 +18,15 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/BOSQUE-THUMBNAIL.png",
       "category": "Fondos",
       "defaultScale": 1.0
+    },
+    {
+      "id": "BOSQUE2",
+      "name": "BOSQUE2",
+      "type": "Image",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/Bosque2.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/Bosque2-thumbnail.png",
+      "category": "Fondos",
+      "defaultScale": 1.0
     }
   ]
 }
