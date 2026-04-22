@@ -11,6 +11,15 @@
       "defaultScale": 1.0
     },
     {
+  "id": "cerdo_01",
+  "name": "Cerdo",
+  "type": 0,
+  "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/Models/Cerdo.glb",
+  "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/Thumbnails/Cerdo.png",
+  "category": "Animals",
+  "defaultScale": 0.8
+    },
+    {
       "id": "BOSQUE",
       "name": "BOSQUE",
       "type": "Image",
