@@ -18,7 +18,7 @@
       "name": "Cerdo",
       "aliases": ["cerdo", "pig", "cochinito", "puerco", "marrano"],
       "type": 0,
-      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/Cerdo.glb",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/cerdo.glb",
       "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/Cerdo.png",
       "category": "character_animal",
       "previewPrefabType": "animal",
