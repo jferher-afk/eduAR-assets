@@ -6,11 +6,11 @@
       "name": "T-Rex",
       "aliases": ["trex", "t-rex", "dinosaurio", "dinosaurio rex"],
       "type": 0,
-      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/T-REX.glb",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/trex.glb",
       "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/trex.png",
       "category": "character_animal",
       "previewPrefabType": "animal",
-      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/T-REX.glb",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/trex.glb",
       "defaultScale": 1.0
     },
     {
@@ -19,10 +19,10 @@
       "aliases": ["cerdo", "pig", "cochinito", "puerco", "marrano"],
       "type": 0,
       "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/cerdo.glb",
-      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/Cerdo.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/cerdo.png",
       "category": "character_animal",
       "previewPrefabType": "animal",
-      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/Cerdo.glb",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/cerdo.glb",
       "defaultScale": 0.8
     },
     {
@@ -30,11 +30,11 @@
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
       "type": 1,
-      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/BOSQUE-b.png",
-      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/BOSQUE-THUMBNAIL.png",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/bosque.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/bosque.png",
       "category": "background_image",
       "previewPrefabType": "background",
-      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/BOSQUE-b.png",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/bosque.png",
       "defaultScale": 1.0
     },
     {
@@ -42,11 +42,11 @@
       "name": "Bosque 2",
       "aliases": ["bosque2", "bosque 2", "forest 2", "fondo bosque 2"],
       "type": 1,
-      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/Bosque2.png",
-      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/Bosque2-thumbnail.png",
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/bosque2.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/bosque2.png",
       "category": "background_image",
       "previewPrefabType": "background",
-      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/Bosque2.png",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/bosque2.png",
       "defaultScale": 1.0
     }
   ]
