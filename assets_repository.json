@@ -15,7 +15,7 @@
       "category": "character_animal",
       "previewPrefabType": "animal",
       "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/trex.glb",
-      "defaultScale": 1.0
+      "defaultScale": 2.0
     },
     {
       "id": "cerdo_01",
