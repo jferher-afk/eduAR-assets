@@ -34,6 +34,22 @@
       "defaultScale": 0.8
     },
     {
+      "id": "abeja",
+      "name": "Abeja",
+      "aliases": ["abeja", "bee"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "NonHumanoid",
+      "collections": ["farm", "animals"],
+      "tags": ["abeja", "bee", "granja", "animal", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/abeja.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/abeja.png",
+      "category": "character_animal",
+      "previewPrefabType": "animal",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/abeja.glb",
+      "defaultScale": 0.5
+    },
+    {
       "id": "bosque_01",
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
