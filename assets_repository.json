@@ -82,6 +82,22 @@
       "defaultScale": 1.0
     },
     {
+      "id": "gallo",
+      "name": "Gallo",
+      "aliases": ["gallo", "rooster", "cock", "cockerer", "capon", "chicken"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "NonHumanoid",
+      "collections": ["farm", "animals"],
+      "tags": ["gallo", "rooster", "cock", "cockerer", "capon", "chicken", "granja", "animal", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/gallo.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/gallo.png",
+      "category": "character_animal",
+      "previewPrefabType": "animal",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/gallo.glb",
+      "defaultScale": 0.5
+    },
+    {
       "id": "bosque_01",
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
