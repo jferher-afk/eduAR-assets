@@ -47,7 +47,7 @@
       "category": "character_animal",
       "previewPrefabType": "animal",
       "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/abeja.glb",
-      "defaultScale": 0.5
+      "defaultScale": 0.25
     },
     {
       "id": "bosque_01",
