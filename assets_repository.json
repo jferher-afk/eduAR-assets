@@ -66,6 +66,22 @@
       "defaultScale": 1.0
     },
     {
+      "id": "vaca",
+      "name": "Vaca",
+      "aliases": ["vaca", "cow", "cattle", "heifer", "calf", "bovine"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "NonHumanoid",
+      "collections": ["farm", "animals"],
+      "tags": ["vaca", "cow", "cattle", "heifer", "calf", "bovine", "granja", "animal", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/vaca.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/vaca.png",
+      "category": "character_animal",
+      "previewPrefabType": "animal",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/vaca.glb",
+      "defaultScale": 1.0
+    },
+    {
       "id": "bosque_01",
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
