@@ -50,6 +50,22 @@
       "defaultScale": 0.25
     },
     {
+      "id": "oveja",
+      "name": "Oveja",
+      "aliases": ["oveja", "sheep", "ewe", "lamb", "ram"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "NonHumanoid",
+      "collections": ["farm", "animals"],
+      "tags": ["oveja", "sheep", "ewe", "lamb", "ram", "granja", "animal", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/oveja.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/oveja.png",
+      "category": "character_animal",
+      "previewPrefabType": "animal",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/oveja.glb",
+      "defaultScale": 1.0
+    },
+    {
       "id": "bosque_01",
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
