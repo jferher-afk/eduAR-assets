@@ -98,6 +98,22 @@
       "defaultScale": 0.5
     },
     {
+      "id": "valla",
+      "name": "Valla",
+      "aliases": ["valla", "fence", "wooden fence", "picket fence", "palisade", "hoarding"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "Prop",
+      "collections": ["farm", "props"],
+      "tags": ["valla", "fence", "wooden fence", "picket fence", "palisade", "hoarding", "granja", "prop", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/valla.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/valla.png",
+      "category": "character_animal",
+      "previewPrefabType": "animal",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/valla.glb",
+      "defaultScale": 0.5
+    },
+    {
       "id": "bosque_01",
       "name": "Bosque",
       "aliases": ["bosque", "forest", "fondo bosque", "escenario bosque"],
