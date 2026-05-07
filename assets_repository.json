@@ -160,6 +160,22 @@
       "previewPrefabType": "background",
       "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/Bosque2b.png",
       "defaultScale": 1.0
+    },
+    {
+      "id": "Granero",
+      "name": "Granero",
+      "aliases": ["granero", "barn"],
+      "type": 1,
+      "technicalType": "image",
+      "sceneRole": "Background",
+      "collections": ["barn", "farm"],
+      "tags": ["granero", "barn", "fondo", "escenario", "farm", "background"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/barn.png",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/barn1.png",
+      "category": "background_image",
+      "previewPrefabType": "background",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/barn.png",
+      "defaultScale": 1.0
     }
   ]
 }
