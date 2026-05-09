@@ -114,6 +114,22 @@
       "defaultScale": 1
     },
     {
+      "id": "faraon",
+      "name": "Faraon",
+      "aliases": ["faraon", "egipcio", "egiptian"],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "Humanoid",
+      "collections": ["Egipto", "Egipt"],
+      "tags": ["faraon", "egipcio", "egiptian", "Egipt", "Egipto","man", "hombre", "infantil"],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/faraon.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/faraon.png",
+      "category": "character_human",
+      "previewPrefabType": "human",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/faraon.glb",
+      "defaultScale": 1
+    },
+    {
       "id": "valla",
       "name": "Valla",
       "aliases": ["valla", "fence", "wooden fence", "picket fence", "palisade", "hoarding"],
