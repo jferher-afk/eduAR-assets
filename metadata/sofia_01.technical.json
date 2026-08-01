@@ -1,0 +1,119 @@
+{
+    "schemaVersion": 1,
+    "assetId": "sofia_01",
+    "displayName": "Sofía",
+    "assetKind": "Character",
+    "technicalType": "model3d",
+    "sourceGlb": {
+        "fileName": "sofia_01.glb",
+        "relativePath": "models/sofia_01.glb",
+        "sizeBytes": 6464428,
+        "sha256": "57dc96de9760c0f5bda1dc20141186a156356b26fd61f02879fe9144e693576e",
+        "copiedWithoutModification": true
+    },
+    "geometry": {
+        "meshCount": 1,
+        "rendererCount": 1,
+        "vertexCount": 22934,
+        "triangleCount": 37714,
+        "materialCount": 1,
+        "textureCount": 2
+    },
+    "rig": {
+        "present": true,
+        "skinnedRendererCount": 1,
+        "boneCount": 24,
+        "rootBoneCount": 1,
+        "rootMotionStatus": "NotVerified",
+        "visualQualityStatus": "NotVerified"
+    },
+    "scale": {
+        "mode": "absoluteLocalScale",
+        "catalogDefaultScale": 0.07252472639083862,
+        "estimatedImporterScaleFactor": 0.07252472639083862,
+        "markerFitVolumeMeters": {
+            "x": 0.14000000059604646,
+            "y": 0.14000000059604646,
+            "z": 0.14000000059604646
+        }
+    },
+    "animations": {
+        "method": "Legacy",
+        "animationCount": 6,
+        "defaultAnimationName": "Cheer_with_Both_Hands",
+        "canSelectClipsByName": true,
+        "thumbnailPoseClipName": "Idle_7",
+        "clips": [
+            {
+                "name": "Cheer_with_Both_Hands",
+                "durationSeconds": 2.933333396911621,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": true,
+                "suggestedPlaybackMode": "once",
+                "semanticIntent": "celebration",
+                "suggestionIsHeuristic": true
+            },
+            {
+                "name": "Idle_7",
+                "durationSeconds": 8.766666412353516,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": false,
+                "suggestedPlaybackMode": "loop",
+                "semanticIntent": "neutral_idle",
+                "suggestionIsHeuristic": true
+            },
+            {
+                "name": "Quick_Walk",
+                "durationSeconds": 3.0,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": false,
+                "suggestedPlaybackMode": "loop",
+                "semanticIntent": "fast_walking",
+                "suggestionIsHeuristic": true
+            },
+            {
+                "name": "Running",
+                "durationSeconds": 0.6333333253860474,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": false,
+                "suggestedPlaybackMode": "loop",
+                "semanticIntent": "running",
+                "suggestionIsHeuristic": true
+            },
+            {
+                "name": "Shrug",
+                "durationSeconds": 2.0,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": false,
+                "suggestedPlaybackMode": "once",
+                "semanticIntent": "uncertainty_or_doubt",
+                "suggestionIsHeuristic": true
+            },
+            {
+                "name": "Walking",
+                "durationSeconds": 1.0333333015441895,
+                "legacy": true,
+                "wrapMode": "Loop",
+                "isDefaultClip": false,
+                "suggestedPlaybackMode": "loop",
+                "semanticIntent": "walking",
+                "suggestionIsHeuristic": true
+            }
+        ]
+    },
+    "compatibility": {
+        "loadedWithGltfFast": true,
+        "androidStatus": "NotVerified",
+        "androidDeviceTestRequired": true
+    },
+    "validation": {
+        "overallStatus": "Warning",
+        "reportRelativePath": "reports/glb_validation.json",
+        "reportSha256": "2912d363db2d4c439264e17d31bcd821665bc0ef8e2aa2d6ed21ac93a00b6b9e"
+    }
+}
