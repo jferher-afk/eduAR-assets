@@ -192,6 +192,43 @@
       "previewPrefabType": "background",
       "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/images/barn.png",
       "defaultScale": 1.0
+    },
+    {
+      "id": "sofia_01",
+      "name": "Sofía",
+      "aliases": [
+        "Sofia",
+        "Sofía estudiante",
+        "Sofia estudiante",
+        "alumna Sofía",
+        "alumna Sofia",
+        "joven investigadora Sofía",
+        "joven investigadora Sofia"
+      ],
+      "type": 0,
+      "technicalType": "model3d",
+      "sceneRole": "Humanoid",
+      "collections": [
+        "school",
+        "science"
+      ],
+      "tags": [
+        "sofía",
+        "sofia",
+        "estudiante",
+        "alumna",
+        "joven investigadora",
+        "investigación",
+        "educación",
+        "ciencia",
+        "humanoide"
+      ],
+      "url": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/sofia_01.glb",
+      "thumbnailUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/thumbnails/sofia_01.png",
+      "category": "character_human",
+      "previewPrefabType": "human",
+      "finalAssetUrl": "https://raw.githubusercontent.com/jferher-afk/eduAR-assets/main/models/sofia_01.glb",
+      "defaultScale": 0.07252472639083862
     }
   ]
 }
